@@ -14,6 +14,10 @@ Hard Skills:
   - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React-icon"/>
   - <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql-icon"/>
 
+  <br>
+  <br>
 
   ![Henrique Donato](https://github-readme-stats.vercel.app/api?username=hcinfo9&show_icons=true&theme=transparent)
-  
+
+
+  <a href="https://www.linkedin.com/in/henrique-donato-587a1915a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
