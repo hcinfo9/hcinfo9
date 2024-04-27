@@ -2,7 +2,7 @@ Hi there :rocket:
 
 Olá, sou Henrique Donato, Desenvolvedor FrontEnd!
 
-Atualmente estou criando projetos com intuito de ganhar mais experiêmcia.
+Atualmente estou criando projetos com intuito de ganhar mais experiência.
 
 Hard Skills:
 <br>
