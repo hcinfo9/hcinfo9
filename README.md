@@ -1,6 +1,6 @@
 Hi there :rocket:
 
-Olá, sou Henrique Donato, Desenvolvedor FullStack!
+Olá, sou Henrique Donato, Desenvolvedor FrontEnd!
 
 Atualmente atuo criando sites com CSS, HTML, JavaScript, BootStrap, NodeJS, TypeScript e  React criando projetos com intuito de ganhar mais experiência.
 
