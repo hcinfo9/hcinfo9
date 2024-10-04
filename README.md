@@ -2,7 +2,7 @@ Hi there :rocket:
 
 Olá, sou Henrique Donato, Desenvolvedor BackEnd!
 
-Atualmente atuo na criação de API rest, Integração com sistemas em tempo real, ferramenta de linha de comando com NodeJS, TypeScript, Nest, Testes Automatizados, MongoDB, PostGreSQL, SQlite, ORM-Prisma, Solid e Clean Code, meu objetivo e conseguir uma nova oportunidade na área.
+Atualmente atuo na criação de API rest, Integração com sistemas em tempo real, ferramenta de linha de comando com .NET, C# , NodeJS, TypeScript, Nest, Testes Automatizados, MongoDB, PostGreSQL, SQlite, ORM-Prisma, Solid e Clean Code, meu objetivo e conseguir uma nova oportunidade na área.
 
 Hard Skills:
 <br>
