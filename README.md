@@ -1,8 +1,9 @@
 Hi there :rocket:
 
-Olá, sou Henrique Donato, Desenvolvedor BackEnd!
+Olá, sou Henrique Donato, Desenvolvedor FullStack!
 
-Atualmente atuo na criação de API rest, Integração com sistemas em tempo real, ferramenta de linha de comando com .NET, C# , NodeJS, TypeScript, Nest, Testes Automatizados, MongoDB, PostGreSQL, SQlite, ORM-Prisma, Solid e Clean Code, meu objetivo e conseguir uma nova oportunidade na área.
+Atualmente atuo na criação de API reste consumo de Api, Integração com sistemas em tempo real, Chatbot, ferramenta de linha de comando com .NET, C# , NodeJS, TypeScript, Nest, Testes Automatizados, MongoDB, PostGreSQL, SQlite, ORM-Prisma, Solid e Clean Code, utilizando docker para rodar serviços e aplicações em container, no Front desenvolvo sites, landing Pages e interfaces responsivas utilizando React, Tailwind, Figma e Git.
+
 
 Hard Skills:
 <br>
@@ -16,6 +17,8 @@ Hard Skills:
   - <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma"/>
   - <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   - <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
+  - <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" />
+  - <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
 
 
   <br>
