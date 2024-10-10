@@ -2,7 +2,7 @@ Hi there :rocket:
 
 Olá, sou Henrique Donato, Desenvolvedor FullStack!
 
-Atualmente atuo na criação de API rest consumo de Api, Integração com sistemas em tempo real, Chatbot, ferramenta de linha de comando com .NET, C# , NodeJS, TypeScript, Nest, Testes Automatizados, MongoDB, PostGreSQL, SQlite, ORM-Prisma, Solid e Clean Code, utilizando docker para rodar serviços e aplicações em container, no Front desenvolvo sites, landing Pages e interfaces responsivas utilizando React, Tailwind, Figma e Git.
+Atualmente atuo na criação de API rest consumo de Api, Integração com sistemas em tempo real, Chatbot, ferramenta de linha de comando. Utilando as seguintes tecnologias: .NET, C# , NodeJS, TypeScript, Nest, Testes Automatizados, MongoDB, PostGreSQL, SQlite, ORM-Prisma, Solid e Clean Code, utilizando docker para rodar serviços e aplicações em container, no Front desenvolvo sites, landing Pages e interfaces responsivas utilizando React, Tailwind, Figma e Git.
 
 
 Hard Skills:
