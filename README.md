@@ -1,10 +1,38 @@
 # 👋 Olá, eu sou Henrique Donato
 
-Desenvolvedor Full Stack com experiência no desenvolvimento de APIs, integrações em tempo real, automações e soluções baseadas em Inteligência Artificial.
+Desenvolvedor Full Stack apaixonado por tecnologia, automação e Inteligência Artificial.
 
-Atualmente trabalho com .NET, C#, Node.js e tecnologias modernas para construir aplicações escaláveis, integrações entre sistemas e ferramentas que automatizam processos e aumentam a produtividade.
+Atualmente atuo no desenvolvimento de APIs, integrações entre sistemas, aplicações web e soluções que automatizam processos e aumentam a produtividade de empresas e usuários.
 
-## 🛠️ Tecnologias e Especialidades
+Tenho experiência com ecossistema .NET e Node.js, trabalhando com arquitetura de software, integrações em tempo real, bancos de dados relacionais e não relacionais, testes automatizados e boas práticas de desenvolvimento.
+
+Meu foco atual está na construção de soluções baseadas em IA, automação de processos e produtos SaaS que resolvam problemas reais.
+
+---
+
+## 🚀 Atualmente Construindo
+
+* AI Resume Analyzer
+* AI Interview Simulator
+* AI Customer Service
+* WhatsApp AI Assistant
+* Ferramentas de automação com IA
+
+---
+
+## 💡 Áreas de Interesse
+
+* Inteligência Artificial Generativa
+* Automação de Processos
+* APIs e Microsserviços
+* Arquitetura de Software
+* SaaS
+* Desenvolvimento Full Stack
+* Produtividade e Eficiência Operacional
+
+---
+
+## 🛠️ Stack Principal
 
 ### Backend
 
@@ -12,43 +40,81 @@ Atualmente trabalho com .NET, C#, Node.js e tecnologias modernas para construir 
 * C#
 * ASP.NET Core
 * Node.js
-* NestJS
 * TypeScript
+* NestJS
+* Express
 
-### Bancos de Dados
+### Banco de Dados
 
 * PostgreSQL
 * MongoDB
 * SQLite
+* Prisma ORM
 
-### Arquitetura
+### Frontend
+
+* React
+* Tailwind CSS
+* HTML
+* CSS
+* JavaScript
+
+### Arquitetura e Qualidade
 
 * SOLID
-* Clean Architecture
 * Clean Code
+* Clean Architecture
 * Design Patterns
+* Testes Automatizados
 
 ### DevOps
 
 * Docker
 * Git
-* CI/CD
+* GitHub
+* Containers
 
 ### Inteligência Artificial
 
 * OpenAI APIs
 * LLM Applications
-* AI Agents
+* AI Assistants
 * Automações Inteligentes
 
-<bt></br>
+---
 
-### Tenho interesse especial em:
+## ⭐ Projetos em Destaque
 
-* Inteligência Artificial Generativa
-* Automação de Processos
-* Arquitetura de Software
-* APIs e Microsserviços
-* Produtos SaaS
+### AI Resume Analyzer
 
-Meu objetivo é transformar problemas reais em soluções práticas através da tecnologia.
+Sistema que utiliza Inteligência Artificial para analisar currículos, identificar pontos de melhoria e gerar recomendações personalizadas.
+
+### AI Interview Simulator
+
+Plataforma que simula entrevistas técnicas e comportamentais utilizando IA.
+
+### AI Customer Service
+
+Assistente inteligente para atendimento automatizado com memória de contexto e integração com APIs.
+
+### WhatsApp AI Assistant
+
+Automação de atendimento utilizando Inteligência Artificial e integração com canais de comunicação.
+
+---
+
+## 📈 Objetivo
+
+Construir soluções que transformem tarefas manuais em processos inteligentes através de IA, automação e desenvolvimento de software.
+
+---
+
+## 🌎 Conecte-se Comigo
+
+[LinkedIn](https://www.linkedin.com/in/henrique-donato-dev)
+
+📧 Contato profissional disponível via LinkedIn.
+
+---
+
+⭐ Sempre explorando novas tecnologias, construindo projetos e compartilhando conhecimento.
