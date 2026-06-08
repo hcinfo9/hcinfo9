@@ -4,6 +4,8 @@ Desenvolvedor Full Stack focado em APIs, automação de processos e soluções b
 
 Atualmente trabalho com .NET, C#, Node.js e tecnologias modernas para desenvolver aplicações, integrações entre sistemas e produtos que resolvem problemas reais.
 
+--- 
+
 ## 🚀 O que estou construindo
 
 ### AI Resume Analyzer
@@ -21,6 +23,8 @@ Assistente inteligente para automação de atendimento e suporte.
 ### WhatsApp AI Assistant
 
 Integração de IA para automatização de comunicação e atendimento.
+
+---
 
 ## 🛠️ Stack Principal
 
@@ -60,6 +64,8 @@ Integração de IA para automatização de comunicação e atendimento.
 * LLM Applications
 * AI Agents
 * Process Automation
+
+---
 
 ## 🌎 Contato
 
