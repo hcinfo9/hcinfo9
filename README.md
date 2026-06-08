@@ -41,7 +41,9 @@ Atualmente trabalho com .NET, C#, Node.js e tecnologias modernas para construir 
 * AI Agents
 * Automações Inteligentes
 
-Tenho interesse especial em:
+<bt></br>
+
+### Tenho interesse especial em:
 
 * Inteligência Artificial Generativa
 * Automação de Processos
